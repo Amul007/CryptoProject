@@ -1,0 +1,3 @@
+image_path = '/home/amul/Documents/stegnography/Untitled.jpeg'
+message_to_hide = 'hello i am amul this side!'
+output_image_path = '/home/amul/Documents/stegnography/output_image.png'
